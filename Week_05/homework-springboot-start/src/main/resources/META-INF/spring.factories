@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  xiaoqi.springboot.start.HomeworkAutoConfiguration
